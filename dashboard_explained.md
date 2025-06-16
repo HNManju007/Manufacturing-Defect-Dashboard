@@ -7,7 +7,7 @@ This document breaks down the Excel dashboard visuals, what they represent, and 
 ## 📊 1. Volume Group vs Defect Percentage
 
 **Chart Type**: Bar Chart  
-**Data Source**: `query1_volume_vs_defects.csv`
+**Data Source**: `volume_vs_defects.csv`
 
 ### ➤ What it shows:
 Grouped production volumes (Low, Medium, High) vs the percentage of defective records.
@@ -22,7 +22,7 @@ Grouped production volumes (Low, Medium, High) vs the percentage of defective re
 ## 👷‍♂️ 2. Shift vs Defect Count
 
 **Chart Type**: Column Chart  
-**Data Source**: `query2_shift_vs_defects.csv`
+**Data Source**: `shift_vs_defects.csv`
 
 ### ➤ What it shows:
 Total number of defective records grouped by shift (A, B, C).
@@ -35,7 +35,7 @@ Total number of defective records grouped by shift (A, B, C).
 
 ## ⏱️ 3. Downtime vs Defect Severity
   
-**Data Source**: `query3_downtime_vs_defect.csv`
+**Data Source**: `downtime_vs_defect.csv`
 
 - `DefectStatus 0` = Low severity  
 - `DefectStatus 1` = High severity
