@@ -20,7 +20,7 @@ To uncover patterns behind high-defect records using manufacturing metrics like 
 
 ## 📷 Dashboard Preview
 
-![Dashboard]("![DASHBOARD as img](https://github.com/user-attachments/assets/c77e02a0-37d1-4a5d-8fd9-e500978803c4)
+("![DASHBOARD as img](https://github.com/user-attachments/assets/c77e02a0-37d1-4a5d-8fd9-e500978803c4)
 ")
 
 ---
